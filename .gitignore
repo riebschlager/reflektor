@@ -1,3 +1,5 @@
 *.*.toe
 **/Backup
 **/misc
+**/output
+
